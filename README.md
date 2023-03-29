@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudobarre" alt="sudobarre" /></a> </p>
 
-- 🔭 I’m currently working on [Sobrecodigo], an open source project(https://sudobarre.github.io/blogpost/)
+- 🔭 I’m currently working on [Sobrecodigo](https://github.com/GaezOrt/sobrecodigo-api), an open source project.
 
 - 🌱 I’m currently learning **Kubernetes, CI/CD and Cloud Services.**
 
