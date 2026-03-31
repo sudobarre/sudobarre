@@ -1,21 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fede</h1>
-<h3 align="center">A passionate Fullstack developer from Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudobarre" alt="sudobarre" /></a> </p>
 
-- 🔭 I’m currently working on [Sobrecodigo](https://github.com/GaezOrt/sobrecodigo-api), an open source project.
-
-- 🌱 I’m currently learning **Kubernetes, CI/CD and Cloud Services.**
-
-- 👯 I’m looking to collaborate on **any project that has my interest**
-
-- 🤝 I’m looking for help with **new knowledge about everything and anything!**
-
-- 👨‍💻 All of my projects are available at [coming soon!](coming soon!)
-
 - 📫 How to reach me: **fedebarrena@gmail.com**
-
-- ⚡ Fun fact **You would need to have 42 cups of coffee in a day to get an overdose!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
